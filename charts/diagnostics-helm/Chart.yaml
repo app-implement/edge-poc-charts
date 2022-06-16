@@ -1,0 +1,8 @@
+apiVersion: v1
+name: diagnostics
+description: diagnostics chart that runs on kubernetes
+version: 1.0.1
+keywords:
+  - diagnostics
+  - kubernetes
+home: https://gitlab.dell.com/business/services/sdst/tsb/diagnostics

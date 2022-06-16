@@ -1,0 +1,8 @@
+apiVersion: v1
+name: inventory
+description: inventory chart that runs on kubernetes
+version: 1.0.1
+keywords:
+  - inventoryv1
+  - kubernetes
+home: https://gitlab.dell.com/business/services/sdst/tsb/inventory

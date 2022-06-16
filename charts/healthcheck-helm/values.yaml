@@ -1,0 +1,11 @@
+kubernetes:
+  host: https://kubernetes.default
+
+healthcheck:
+  namespace: default
+  image:
+    name: harbor.sdst.com/edge/healthcheck
+    tag: latest
+    pullPolicy: IfNotPresent
+  service:
+    ingressClass: internal-ingress

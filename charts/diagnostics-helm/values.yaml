@@ -1,0 +1,11 @@
+kubernetes:
+  host: https://kubernetes.default
+
+diagnostics:
+  namespace: default
+  image:
+    name: harbor.sdst.com/edge/diagnostics
+    tag: latest
+    pullPolicy: IfNotPresent
+  service:
+    ingressClass: internal-ingress

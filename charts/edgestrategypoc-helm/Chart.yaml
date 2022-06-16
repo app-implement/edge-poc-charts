@@ -1,0 +1,8 @@
+apiVersion: v1
+name: edgestrategypoc
+description: edgestrategypoc chart that runs on kubernetes
+version: 1.0.1
+keywords:
+  - edgestrategypoc
+  - kubernetes
+home: https://gitlab.dell.com/business/services/sdst/tsb/edgestrategypoc
