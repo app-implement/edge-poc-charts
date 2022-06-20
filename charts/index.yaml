@@ -1,0 +1,55 @@
+apiVersion: v1
+entries:
+  diagnostics:
+  - apiVersion: v1
+    created: "2022-06-20T14:43:42.3805384-05:00"
+    description: diagnostics chart that runs on kubernetes
+    digest: 12314b0e8bcd041e8382b1d8f1fa2cf6468f4ba3af0c4f73d43cf3bba8f865c7
+    home: https://gitlab.dell.com/business/services/sdst/tsb/diagnostics
+    keywords:
+    - diagnostics
+    - kubernetes
+    name: diagnostics
+    urls:
+    - https://app-implement.github.io/edge-poc-charts/diagnostics-1.0.1.tgz
+    version: 1.0.1
+  edgestrategypoc:
+  - apiVersion: v1
+    created: "2022-06-20T14:43:42.3905293-05:00"
+    description: edgestrategypoc chart that runs on kubernetes
+    digest: 4c555b6d064356b6d426d1add5a471b52f5d50da74e6972d87ba6e058749f581
+    home: https://gitlab.dell.com/business/services/sdst/tsb/edgestrategypoc
+    keywords:
+    - edgestrategypoc
+    - kubernetes
+    name: edgestrategypoc
+    urls:
+    - https://app-implement.github.io/edge-poc-charts/edgestrategypoc-1.0.1.tgz
+    version: 1.0.1
+  healthcheck:
+  - apiVersion: v1
+    created: "2022-06-20T14:43:42.4007234-05:00"
+    description: healthcheck chart that runs on kubernetes
+    digest: 7976475415bfdba8862d3b89d7d031b4c15d3c0b5cf9407877a7b498571e3f14
+    home: https://gitlab.dell.com/business/services/sdst/tsb/healthcheck
+    keywords:
+    - healthcheck
+    - kubernetes
+    name: healthcheck
+    urls:
+    - https://app-implement.github.io/edge-poc-charts/healthcheck-1.0.1.tgz
+    version: 1.0.1
+  inventory:
+  - apiVersion: v1
+    created: "2022-06-20T14:43:42.409239-05:00"
+    description: inventory chart that runs on kubernetes
+    digest: f78c7576ed39758ddac6d563f47f20e7a1cd67127da9e554aec51a9fa2375651
+    home: https://gitlab.dell.com/business/services/sdst/tsb/inventory
+    keywords:
+    - inventoryv1
+    - kubernetes
+    name: inventory
+    urls:
+    - https://app-implement.github.io/edge-poc-charts/inventory-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-06-20T14:43:42.3740467-05:00"
